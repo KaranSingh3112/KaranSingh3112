@@ -81,9 +81,17 @@ I'm passionate about building modern web applications and solving real-world pro
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranSingh3112&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranSingh3112" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranSingh3112&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaranSingh3112&show_icons=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KaranSingh3112&layout=compact"/>
+</p>
 
 ---
 
