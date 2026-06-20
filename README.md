@@ -81,6 +81,8 @@ I'm passionate about building modern web applications and solving real-world pro
 
 ## 📊 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=KaranSingh3112)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranSingh3112" />
 </p>
